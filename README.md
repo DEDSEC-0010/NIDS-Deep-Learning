@@ -40,7 +40,7 @@ Traditional network intrusion detection systems (NIDS) rely on predefined rules 
 
 ## Methodology
 
-![Methodology](path/to/methodology_image.png)
+![Methodology](assets/Untitled Diagram.drawio_(3).png)
 
 ## Dataset
 
